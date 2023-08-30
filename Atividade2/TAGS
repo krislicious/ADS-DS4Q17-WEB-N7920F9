@@ -1,0 +1,37 @@
+TAGS
+
+As tags HTML (HyperText Markup Language) se tornam as bases fundamentais que sustentam uma estrutura e o conteúdo de cada página da internet no extenso ecossistema da criação web.
+As tags HTML são essenciais para formatar, organizar e apresentar informações, o que permite que os desenvolvedores web alterem uma aparência e o comportamento das páginas para atender
+às necessidades e expectativas dos usuários. Neste texto, discutiremos algumas das tags HTML mais importantes, bem como suas funções, enfatizando o papel desses elementos na construção
+do mundo digital moderno.
+
+<html>: Uma tag raiz de qualquer documento HTML, que envolve todo o conteúdo da página.
+
+<head>: Esta tag contém metadados sobre o documento, como título, codificação de caracteres e links para folhas de estilo.
+
+<body>: delimita o conteúdo visível da página, incluindo textos, imagens, vídeos e outros elementos interativos.
+
+<h1> a <h6>: Essas tags definem os títulos, variando em tamanho e importância hierárquica. O <h1> é o mais alto em termos de importância.
+
+<p>: Usada para criar parágrafos de texto, facilitando a formatação e a legibilidade.
+
+<a>: Uma tag de âncora cria links para outras páginas ou recursos, permitindo a navegação entre diferentes partes da web.
+
+<img>: Essa tag inserir imagens na página, sendo essencial para adicionar elementos visuais e ilustrações.
+
+<ul> e <ol>: Essas tags são usadas para criar listas não ordenadas e ordenadas, respectivamente, organizando informações de maneira estruturada.
+
+<li>: Utilizada dentro das tags <ul> ou <ol>, esta tag define os itens individuais em uma lista.
+
+<table>: Essa tag é usada para criar tabelas, permitindo a exibição de dados em linhas e colunas.
+
+<form>: Essencial para criar formulários interativos, essa tag permite a coleta de informações dos usuários.
+
+<input>: Usada dentro das tags <form>, a tag <input> cria campos onde os usuários podem inserir dados, como texto ou números.
+
+As tags HTML são fundamentais para a criação da paisagem digital moderna. Esses componentes permitem que os desenvolvedores criem experiências online divertidas e funcionais
+com estrutura, formatação e interatividade. As tags HTML continuam sendo a base sólida sobre a qual a web é construída, apesar de terem evoluído e sido complementadas por tecnologias
+mais avançado, como CSS e JavaScript. Cada tag cumpre uma função específica e contribui para a complexa tapeçaria da internet, demonstrando uma incrível flexibilidade e características da linguagem de marcação HTML.
+
+Referências bibliográficas
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
